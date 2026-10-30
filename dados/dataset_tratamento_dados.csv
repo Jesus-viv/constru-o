@@ -1,0 +1,87 @@
+id_aluno,nome,idade,cidade,curso,modalidade,nota_final,frequencia_pct,ativo,entregou_projeto,data_matricula,dispositivo_principal,satisfacao,horas_estudo_semana,cidade,nota_final
+1001,Larissa Gomes,54.0,São Paulo,Matplotlib,Presencial,2.0,58.2,True,True,2025-10-11,Celular,,,São Paulo,2.0
+1002,,44.0,Recife,Banco de Dados,EAD,0.1,53.0,True,True,2026-04-26,Computador,1.0,2.0,Recife,0.1
+1003,Ana Souza,30.0,Brasília,Python,Presencial,8.2,,False,,2026-03-29,Tablet,3.0,0.4,Brasília,8.2
+1004,Mateus Ribeiro,23.0,Salvador,Python,Híbrido,7.1,,True,True,2026-05-31,Celular,4.0,1.9,Salvador,7.1
+1005,Eduarda Costa,36.0,Rio de Janeiro,Python,Híbrido,7.3,58.3,False,False,2026-07-01,Tablet,2.0,13.7,Rio de Janeiro,7.3
+1006,Diego Alves,54.0,São Paulo,Excel,Presencial,7.7,82.0,False,True,2025-07-11,,2.0,1.4,São Paulo,7.7
+1007,Diego Alves,34.0,,Excel,,0.7,86.9,False,False,2025-02-18,Tablet,5.0,6.4,,0.7
+1008,Carla Mendes,38.0,Brasília,Banco de Dados,Presencial,3.6,,False,False,2026-05-27,,2.0,16.9,Brasília,3.6
+1009,Mateus Ribeiro,26.0,Salvador,Matplotlib,Presencial,,85.1,False,True,2025-01-17,Tablet,5.0,0.5,Salvador,
+1010,Bruno Lima,26.0,São Paulo,Python,Presencial,8.6,65.2,False,True,2025-06-21,Celular,1.0,16.3,São Paulo,8.6
+1011,Larissa Gomes,39.0,Belo Horizonte,Banco de Dados,Híbrido,,79.8,True,True,2025-08-08,Tablet,4.0,,Belo Horizonte,
+1012,Mateus Ribeiro,51.0,Rio de Janeiro,Banco de Dados,Híbrido,3.3,79.8,True,True,2025-06-07,Celular,5.0,2.4,Rio de Janeiro,3.3
+1013,Paula Carvalho,39.0,Belo Horizonte,Matplotlib,Presencial,0.6,74.5,False,,,Tablet,1.0,13.9,Belo Horizonte,0.6
+1014,Isabela Santos,18.0,Recife,Banco de Dados,Presencial,3.1,50.0,True,False,2025-02-15,Celular,2.0,12.6,Recife,3.1
+1015,Bruno Lima,37.0,,Matplotlib,Presencial,3.3,90.9,True,,2026-01-08,Celular,2.0,17.5,,3.3
+1016,João Pereira,17.0,Rio de Janeiro,Power BI,,,,True,,2026-06-02,Celular,,14.7,Rio de Janeiro,
+1017,Giovana Martins,39.0,Brasília,Matplotlib,EAD,6.4,55.3,False,True,2025-04-09,Tablet,2.0,16.1,Brasília,6.4
+1018,Ana Souza,45.0,Rio de Janeiro,Python,Presencial,8.9,47.2,True,True,2025-02-06,Celular,1.0,5.6,Rio de Janeiro,8.9
+1019,Ana Souza,53.0,Rio de Janeiro,Python,Híbrido,4.7,77.5,True,False,2025-10-07,,5.0,3.5,Rio de Janeiro,4.7
+1020,Bruno Lima,17.0,Brasília,Matplotlib,Presencial,1.2,82.3,,False,2025-12-15,Computador,5.0,15.0,Brasília,1.2
+1021,Diego Alves,36.0,Recife,Power BI,EAD,7.1,45.9,True,True,2026-05-12,Computador,,16.1,Recife,7.1
+1022,Diego Alves,48.0,Rio de Janeiro,Power BI,,7.6,73.2,True,False,2025-10-29,Celular,,,Rio de Janeiro,7.6
+1023,Isabela Santos,27.0,Recife,Python,EAD,5.6,57.5,True,True,2025-06-30,Tablet,5.0,8.3,Recife,5.6
+1024,João Pereira,,Recife,,Presencial,,80.5,True,True,2025-04-09,Celular,5.0,7.4,Recife,
+1025,Ana Souza,40.0,Recife,Banco de Dados,Híbrido,4.9,54.6,True,True,2025-04-26,Tablet,3.0,15.5,Recife,4.9
+1026,Isabela Santos,42.0,São Paulo,Excel,Presencial,5.2,83.0,True,False,2025-07-10,Tablet,4.0,6.8,São Paulo,5.2
+1027,Diego Alves,43.0,Curitiba,Banco de Dados,Híbrido,4.3,66.3,True,False,2025-09-10,Computador,2.0,18.6,Curitiba,4.3
+1028,Mateus Ribeiro,31.0,,Python,Híbrido,,96.5,False,True,2025-06-10,,3.0,17.2,,
+1029,Larissa Gomes,,Brasília,,Híbrido,1.1,52.6,True,True,2025-09-13,Tablet,5.0,,Brasília,1.1
+1030,Mateus Ribeiro,18.0,Curitiba,Matplotlib,EAD,0.3,63.8,True,True,2025-11-19,Celular,1.0,15.0,Curitiba,0.3
+1031,Isabela Santos,52.0,Recife,,Presencial,,51.2,True,True,2025-05-08,Celular,5.0,15.1,Recife,
+1032,Giovana Martins,22.0,Brasília,Matplotlib,,3.1,95.9,True,False,2025-01-18,Tablet,4.0,2.1,Brasília,3.1
+1033,Diego Alves,36.0,Brasília,Python,EAD,5.1,93.3,False,True,2026-07-20,Computador,,18.1,Brasília,5.1
+1034,Henrique Silva,24.0,Belo Horizonte,Power BI,Presencial,9.1,59.2,False,True,2026-07-24,Celular,1.0,10.1,Belo Horizonte,9.1
+1035,João Pereira,54.0,Belo Horizonte,Matplotlib,Presencial,2.5,81.3,False,False,2025-11-19,Celular,4.0,,Belo Horizonte,2.5
+1036,Eduarda Costa,,,Matplotlib,Presencial,4.1,89.9,True,False,2025-10-15,,,6.4,,4.1
+1037,Nathalia Oliveira,19.0,Recife,Excel,Híbrido,7.6,75.5,False,True,,Celular,4.0,17.9,Recife,7.6
+1038,Otávio Ferreira,40.0,Recife,Excel,EAD,2.3,74.1,True,False,2026-05-05,Tablet,2.0,7.8,Recife,2.3
+1039,Ana Souza,,Curitiba,Power BI,EAD,0.8,58.3,False,True,2026-01-21,Tablet,2.0,0.2,Curitiba,0.8
+1040,Nathalia Oliveira,24.0,Brasília,Excel,EAD,2.9,50.1,False,True,2025-04-14,Tablet,5.0,18.1,Brasília,2.9
+1041,Nathalia Oliveira,41.0,,Matplotlib,,1.6,94.3,,False,2026-01-28,Celular,4.0,1.8,,1.6
+1042,Carla Mendes,17.0,Rio de Janeiro,Matplotlib,EAD,9.3,94.5,False,True,2025-09-03,Celular,1.0,6.4,Rio de Janeiro,9.3
+1043,Mateus Ribeiro,35.0,Salvador,Python,Híbrido,8.1,79.8,False,,2025-06-25,Celular,5.0,19.0,Salvador,8.1
+1044,Giovana Martins,43.0,Salvador,Matplotlib,Presencial,6.3,,False,True,2025-02-08,Celular,2.0,19.0,Salvador,6.3
+1045,Felipe Rocha,22.0,Salvador,Power BI,Híbrido,8.7,64.2,True,True,2026-04-22,Tablet,2.0,11.5,Salvador,8.7
+1046,Eduarda Costa,23.0,São Paulo,Banco de Dados,Híbrido,8.0,84.9,True,False,2026-06-22,Computador,5.0,12.6,São Paulo,8.0
+1047,Carla Mendes,50.0,Brasília,Python,Híbrido,1.9,94.3,False,False,2026-02-12,Tablet,4.0,9.0,Brasília,1.9
+1048,Diego Alves,29.0,Salvador,Python,Presencial,,93.8,True,False,2026-06-09,Celular,2.0,5.9,Salvador,
+1049,Nathalia Oliveira,32.0,São Paulo,Power BI,Presencial,5.4,87.9,True,True,2026-05-21,Tablet,4.0,6.6,São Paulo,5.4
+1050,Felipe Rocha,51.0,Salvador,Power BI,,8.1,80.3,True,True,2025-02-05,Computador,,13.5,Salvador,8.1
+1051,Bruno Lima,19.0,Rio de Janeiro,Excel,Híbrido,9.0,49.6,False,True,2025-01-20,,2.0,,Rio de Janeiro,9.0
+1052,Bruno Lima,17.0,Belo Horizonte,Python,EAD,3.2,53.9,True,True,2025-11-17,Computador,3.0,,Belo Horizonte,3.2
+1053,Giovana Martins,21.0,Rio de Janeiro,Excel,Presencial,1.1,94.4,False,False,2026-05-27,Celular,2.0,,Rio de Janeiro,1.1
+1054,Bruno Lima,19.0,,,Presencial,2.3,78.4,True,False,2026-02-04,Tablet,,,,2.3
+1055,Felipe Rocha,44.0,Brasília,,Presencial,4.3,45.5,True,False,2026-04-16,Tablet,5.0,9.9,Brasília,4.3
+1056,Otávio Ferreira,33.0,Curitiba,Python,Presencial,8.2,50.6,False,,2025-05-23,Tablet,5.0,1.2,Curitiba,8.2
+1057,Felipe Rocha,41.0,Recife,Banco de Dados,Híbrido,,81.5,False,False,,Tablet,,11.0,Recife,
+1058,João Pereira,49.0,Rio de Janeiro,Python,EAD,0.1,45.3,True,False,2025-12-20,,2.0,8.8,Rio de Janeiro,0.1
+1059,Eduarda Costa,25.0,Brasília,Matplotlib,Presencial,5.1,,False,,2025-02-20,Computador,1.0,17.8,Brasília,5.1
+1060,Nathalia Oliveira,51.0,Recife,Excel,EAD,,75.2,False,False,2026-07-29,Computador,4.0,7.0,Recife,
+1061,Ana Souza,29.0,Belo Horizonte,Excel,Presencial,2.2,83.1,True,True,,Tablet,3.0,2.3,Belo Horizonte,2.2
+1062,Mateus Ribeiro,46.0,Belo Horizonte,Banco de Dados,EAD,1.2,80.9,False,True,2025-05-05,Celular,4.0,2.9,Belo Horizonte,1.2
+1063,,30.0,Recife,,EAD,3.4,57.3,True,,2025-05-30,Computador,4.0,15.2,Recife,3.4
+1064,Isabela Santos,23.0,Belo Horizonte,Excel,Presencial,9.4,84.2,True,True,2025-11-10,,2.0,12.4,Belo Horizonte,9.4
+1065,Bruno Lima,29.0,Brasília,Power BI,,3.2,,,False,2026-07-24,Computador,3.0,2.0,Brasília,3.2
+1066,Paula Carvalho,38.0,Rio de Janeiro,Matplotlib,EAD,5.2,62.9,True,True,2025-12-08,Computador,,1.7,Rio de Janeiro,5.2
+1067,Giovana Martins,36.0,Brasília,Matplotlib,Híbrido,7.0,86.1,,True,,Computador,1.0,14.0,Brasília,7.0
+1068,Bruno Lima,31.0,Brasília,Banco de Dados,Presencial,3.6,,True,False,2025-02-23,Computador,1.0,1.5,Brasília,3.6
+1069,Isabela Santos,33.0,Recife,Excel,Presencial,9.7,91.7,False,False,2026-03-20,Celular,5.0,16.4,Recife,9.7
+1070,Eduarda Costa,,Curitiba,Matplotlib,Híbrido,9.6,81.2,False,False,2025-09-21,Tablet,3.0,14.1,Curitiba,9.6
+1071,Otávio Ferreira,41.0,,Excel,Híbrido,2.5,,True,False,2025-02-22,Computador,3.0,1.6,,2.5
+1072,,40.0,Rio de Janeiro,Power BI,Presencial,5.0,50.2,,True,2026-07-26,Celular,5.0,1.7,Rio de Janeiro,5.0
+1073,João Pereira,,Recife,Banco de Dados,Presencial,3.0,65.2,True,False,,Celular,4.0,19.7,Recife,3.0
+1074,Paula Carvalho,30.0,,Power BI,Presencial,2.8,59.6,False,True,2025-04-13,Tablet,3.0,7.5,,2.8
+1075,Otávio Ferreira,16.0,,Banco de Dados,Presencial,,58.4,,False,2025-07-15,Tablet,1.0,7.4,,
+1076,Felipe Rocha,40.0,Curitiba,Matplotlib,EAD,6.1,98.5,False,True,2025-12-16,Computador,1.0,16.3,Curitiba,6.1
+1077,João Pereira,22.0,Belo Horizonte,Banco de Dados,EAD,5.0,66.6,True,False,2025-02-16,Tablet,,18.9,Belo Horizonte,5.0
+1078,Diego Alves,24.0,Rio de Janeiro,Python,,0.5,94.1,True,True,2025-09-26,Tablet,,19.7,Rio de Janeiro,0.5
+1079,Mateus Ribeiro,39.0,Brasília,Excel,Presencial,,79.7,False,True,2026-01-05,,4.0,15.1,Brasília,
+1080,Bruno Lima,16.0,Brasília,Excel,EAD,,88.7,False,False,2025-04-16,Celular,5.0,7.5,Brasília,
+1005,Eduarda Costa,36.0,Rio de Janeiro,Python,Híbrido,7.3,58.3,False,False,2026-07-01,Tablet,2.0,13.7,,
+1013,Paula Carvalho,39.0,Belo Horizonte,Matplotlib,Presencial,0.6,74.5,False,,,Tablet,1.0,13.9,,
+1026,Isabela Santos,42.0,São Paulo,Excel,Presencial,5.2,83.0,True,False,2025-07-10,Tablet,4.0,6.8,,
+1042,Carla Mendes,17.0,Rio de Janeiro,Matplotlib,EAD,9.3,94.5,False,True,2025-09-03,Celular,1.0,6.4,,
+1042,Carla Mendes,17.0,Rio de Janeiro,Matplotlib,EAD,9.3,94.5,False,True,2025-09-03,Celular,1.0,6.4,,
+1064,Isabela Santos,23.0,Belo Horizonte,Excel,Presencial,9.4,84.2,True,True,2025-11-10,,2.0,12.4,,
